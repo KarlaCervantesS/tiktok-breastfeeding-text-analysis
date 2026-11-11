@@ -1,0 +1,7 @@
+# Data and results (not shared)
+results/
+*.xlsx
+*.csv
+!examples/*.csv
+*.npy
+__pycache__/
